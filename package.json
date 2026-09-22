@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "tv4": "~1.2.7",
-    "json-pointer": "~0.5.0"
+    "json-pointer": "~0.6.2"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
